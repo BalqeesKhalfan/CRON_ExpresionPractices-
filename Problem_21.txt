@@ -1,0 +1,4 @@
+Write a CRON expression that runs a job at 3:30 AM every day except Saturday and Sunday
+
+Answer:
+30 3 * * 1-5
