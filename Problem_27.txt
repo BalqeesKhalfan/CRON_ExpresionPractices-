@@ -1,0 +1,5 @@
+Write a CRON expression that runs a job every 10 minutes on weekdays between 9:00 AM and 5:00 PM.
+
+
+Answer:
+*/10 9-16 * * 1-5
