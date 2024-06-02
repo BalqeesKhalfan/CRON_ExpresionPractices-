@@ -1,0 +1,3 @@
+Write a CRON expression that runs a job at 11:00 PM every day of the year.
+
+0 23 * * *
