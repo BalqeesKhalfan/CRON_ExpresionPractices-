@@ -1,0 +1,4 @@
+Write a CRON expression that runs a job every day at 2:30 PM.
+
+Answer
+30 14 * * *
